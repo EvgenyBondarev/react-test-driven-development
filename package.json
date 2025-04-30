@@ -1,0 +1,16 @@
+{
+	"name": "appointments",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"private": true,
+	"keywords": [],
+	"author": "Yevhen Bondariev",
+	"license": "ISC",
+	"description": "",
+	"devDependencies": {
+		"jest": "^29.7.0"
+	}
+}
